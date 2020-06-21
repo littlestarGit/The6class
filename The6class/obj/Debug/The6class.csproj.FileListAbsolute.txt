@@ -1,0 +1,10 @@
+E:\own\C#课程\The6class\The6class\bin\Debug\The6class.exe.config
+E:\own\C#课程\The6class\The6class\bin\Debug\The6class.exe
+E:\own\C#课程\The6class\The6class\bin\Debug\The6class.pdb
+E:\own\C#课程\The6class\The6class\obj\Debug\The6class.csprojAssemblyReference.cache
+E:\own\C#课程\The6class\The6class\obj\Debug\The6class.Form1.resources
+E:\own\C#课程\The6class\The6class\obj\Debug\The6class.Properties.Resources.resources
+E:\own\C#课程\The6class\The6class\obj\Debug\The6class.csproj.GenerateResource.cache
+E:\own\C#课程\The6class\The6class\obj\Debug\The6class.csproj.CoreCompileInputs.cache
+E:\own\C#课程\The6class\The6class\obj\Debug\The6class.exe
+E:\own\C#课程\The6class\The6class\obj\Debug\The6class.pdb
